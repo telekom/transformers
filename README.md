@@ -14,6 +14,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
+test_pr_01
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://huggingface.co/datasets/huggingface/documentation-images/raw/main/transformers-logo-dark.svg">
